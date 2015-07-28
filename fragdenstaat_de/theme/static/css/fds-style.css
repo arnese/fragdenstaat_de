@@ -23,6 +23,13 @@
   background-position: 15px 11px;
 }
 
+.donations {
+    position: absolute;
+    right: 0em;
+    z-index: 1000;
+    margin-top: -7px;  
+  }
+
 .donation-banner {
   z-index: 1001;
   width: 100%;
